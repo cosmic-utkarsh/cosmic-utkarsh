@@ -1,14 +1,13 @@
-# Cosmic 
-> *just another node in the network*  
-
+# cosmic 
+> just another node in the network  
 ---
 
-### 🎯 Learning and Skills  
-**Currently learning:**  
-<span style="color:#4caf50;">Generative AI</span>, <span style="color:#2196f3;">LangChain</span>, <span style="color:#ff5722;">Deep Learning</span>  
+### 🎯 Learning and Skills
 
-**Comfortable with:**  
+Currently exploring:  
+**Generative AI**, **LangChain**, **Deep Learning**
 
+Comfortable with:  
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
@@ -24,14 +23,25 @@
 
 ---
 
-### 🚧 What I’m Building  
-**Hands2Text** — real-time ASL sign-to-text converter.
+### 🚧 Currently building:
+
+<details>
+<summary><strong>Hands2Text</strong> — Real-time ASL Sign-to-Text converter</summary>
+
+A tool that captures American Sign Language gestures and converts them into text in real time.  
+Built with OpenCV, MediaPipe, and deep learning models for accuracy.
+
+</details>
 
 ---
 
-### 📫 Contact  
+### 📫 Contact
+
 [LinkedIn](https://linkedin.com/in/yourname) · [Email](mailto:you@example.com)
 
 ---
 
-> Always learning. Always shipping.
+<p align="center" style="font-style: italic; color: gray;">
+  <em>Always learning. Always shipping.</em>
+</p>
+
